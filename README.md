@@ -9,7 +9,7 @@ Handaxe_GMM.R is the main code for all handaxes used in this study, providing in
 A240Walc_GMM.R is the code for a direct comparison of offshore material. All other code files are for individual site analyses.
 
 
-![./Images/LDAfullaxes.jpg] (https://github.com/A-Barroso/MSc-Dissertation/blob/main/Images/LDAfullaxes.jpg)
+![LDAfullaxes.jpg] (https://github.com/A-Barroso/MSc-Dissertation/blob/main/Images/LDAfullaxes.jpg)
 
 The full dissertation investigates the possible presence of technological regionalism observable in Neanderthal handaxes and explains the findings through the lens of cultural theory, with the addition of various interdisciplinary lines of supporting evidence from wider contexts. The findings indicate localised knapping behavious or mental templates, possibly pertaining to small groups of hominins. These sit within a wider 'idealised shape', approached by these assemblages in unique ways. GMM analysis has also identified some interesting similarities between both of the offshore groups of material, which were dredged in the North Sea. It highlighted the presence of a morphological sub-group amongst a possible number of mixed-provenance handaxes; this has been corroborated by initial and independent observations from the Project Curator of one of these offshore sites.
 
