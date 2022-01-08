@@ -5,7 +5,7 @@ A Geometric Morphometric investigation of Neanderthal handaxes from four archaeo
 This is the code for my Dissertation for the degree of MSc Archaeology (Bioarchaeology), exploring the possibility of regionalised Neanderthal cultures investigated through the statistical analysis of four different handaxe groups. Two of these are from offshore collections, providing insight into the identification of such material.
 (Outline data etc. soon to be uploaded).
 
-Handaxe_GMM.R is the main code for all handaxes used in this study, providing inter- and intra-site comparison. It can be found [here](https://github.com/A-Barroso/MSc-Dissertation/blob/main/Handaxe_GMM.R)
+Handaxe_GMM.R is the main code for all handaxes used in this study, providing inter- and intra-site comparison. It can be found [here](https://github.com/A-Barroso/MSc-Dissertation/blob/main/Handaxe_GMM.R) .
 A240Walc_GMM.R is the code for a direct comparison of offshore material. All other code files are for individual site analyses.
 
 
