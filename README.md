@@ -13,7 +13,7 @@ Feel free to reach out if you have any questions or comments. I am happy to prov
 
 
 
-If you use this code in your research, please cite it as follows:
+**If you use this code in your research, please cite it as follows.**
 
 **Author:** Alexandra Barroso
 
