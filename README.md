@@ -12,6 +12,7 @@ The full dissertation investigates the possible presence of technological region
 Feel free to reach out if you have any questions or comments. I am happy to provide a copy of my dissertation upon request.
 
 
+
 If you use this code in your research, please cite it as follows:
 
 **Author:** Alexandra Barroso
@@ -29,6 +30,9 @@ If you use this code in your research, please cite it as follows:
 **Publisher:** Archaeopress
 
 **DOI:** in press (update forthcoming)
+
+
+
 
 
 
