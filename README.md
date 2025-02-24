@@ -23,7 +23,7 @@ If you use this code in your research, please cite it as follows:
 
 **Version:** 1.0  
 
-**Repository:** [[GitHub URL]](https://github.com/A-Barroso/MSc-Dissertation)
+**Repository:** https://github.com/A-Barroso/MSc-Dissertation
 
 **Publication:** Unravelling the Palaeolithic 2023 Conference Proceedings (in press, update forthcoming)
 
