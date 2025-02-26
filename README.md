@@ -18,21 +18,21 @@ Feel free to reach out if you have any questions or comments. I am happy to prov
 
 **If you use this code in your research, please cite it as follows.**
 
-**Author:** Alexandra Barroso
+  **Author:** Alexandra Barroso
 
-**Title:** Neanderthal Cultures of the British Peninsula: a computational investigation into selected Middle Palaeolithic handaxe assemblages.
+  **Title:** Neanderthal Cultures of the British Peninsula: a computational investigation into selected Middle Palaeolithic handaxe assemblages.
 
-**ORCID-ID:** 0000-0002-9834-9408
+  **ORCID-ID:** 0000-0002-9834-9408
 
-**Version:** 1.0  
+  **Version:** 1.0  
 
-**Repository:** https://github.com/A-Barroso/MSc-Dissertation
+  **Repository:** https://github.com/A-Barroso/MSc-Dissertation
 
-**Publication:** Unravelling the Palaeolithic 2023 Conference Proceedings (in press, update forthcoming)
+  **Publication:** Unravelling the Palaeolithic 2023 Conference Proceedings (in press, update forthcoming)
 
-**Publisher:** Archaeopress
+  **Publisher:** Archaeopress
 
-**DOI:** in press (update forthcoming)
+  **DOI:** in press (update forthcoming)
 
 
 <br>
@@ -40,11 +40,12 @@ Feel free to reach out if you have any questions or comments. I am happy to prov
 
 
 
-# Linear Discriminant Aanalysis of all handaxes
+# Linear Discriminant Analysis of all handaxes
 
 ![./images/LDAfullaxes.jpg](https://github.com/A-Barroso/MSc-Dissertation/blob/main/Images/LDAfullaxes.jpg)
 
 
+<br>
 
 
 # Hieararchical Cluster Analysis of all handaxes
