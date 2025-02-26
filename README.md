@@ -12,6 +12,7 @@ The full dissertation investigates the possible presence of technological region
 Feel free to reach out if you have any questions or comments. I am happy to provide a copy of my dissertation upon request.
 
 
+<br>
 
 **Please note that this repository now contains deprecated code. For an updated working version, please see the scripts found via:** https://github.com/A-Barroso/2D_GeomMorpho
 
@@ -34,7 +35,7 @@ Feel free to reach out if you have any questions or comments. I am happy to prov
 **DOI:** in press (update forthcoming)
 
 
-
+<br>
 
 
 
