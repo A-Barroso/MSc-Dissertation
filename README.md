@@ -52,6 +52,6 @@ Feel free to reach out if you have any questions or comments. I am happy to prov
 
 
 
-## Hieararchical Cluster Analysis of all handaxes
+## Hierarchical Cluster Analysis of all handaxes
 
 ![./images/clad.jpg](https://github.com/A-Barroso/MSc-Dissertation/blob/main/Images/clad.jpg)
