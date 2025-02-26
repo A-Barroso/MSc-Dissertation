@@ -14,6 +14,7 @@ Feel free to reach out if you have any questions or comments. I am happy to prov
 
 
 **Please note that this repository now contains deprecated code. For an updated working version, please see the scripts found via:** https://github.com/A-Barroso/2D_GeomMorpho
+
 **If you use this code in your research, please cite it as follows.**
 
 **Author:** Alexandra Barroso
